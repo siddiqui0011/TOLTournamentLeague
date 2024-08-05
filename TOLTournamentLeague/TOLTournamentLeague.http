@@ -1,0 +1,6 @@
+@TOLTournamentLeague_HostAddress = http://localhost:5287
+
+GET {{TOLTournamentLeague_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
